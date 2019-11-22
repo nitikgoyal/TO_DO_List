@@ -1,0 +1,43 @@
+body {
+  background-image: url(todo3.jpg);
+  background-size:cover;
+}
+input[type=text] {
+  width: 25%;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  background-color: lightcyan;
+}
+h1{
+  font-size: 30px;
+  font-style: italic;
+  font-family: algerian;
+  color:;
+}
+#b1{
+  background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+  border-radius:8px;
+  padding: 13px 22px;
+  font-size:15px;
+}
+ul{
+  list-style-type: none;
+}
+#b2{
+  background-color: antiquewhite;
+  color:black;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size:15px;
+  margin-left: 30px;
+}
+#l1{
+  font-size:30px;
+  font-family: inherit;
+  color:black;
+}
+#t1{
+  font-size: 18px;
+  font-style: italic;
+  font-family: sans-serif;
+}
